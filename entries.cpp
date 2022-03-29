@@ -41,8 +41,6 @@ void introduction(){
     TFT.rect(40,115,200,245,Green);
 
 
-    
-
     TFT.background(Red);    // set background to red
     TFT.set_font((unsigned char*) Arial24x23);
     TFT.locate(115,247);
